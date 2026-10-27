@@ -222,3 +222,5 @@ The original CSV files are not included in this repository. They can be download
 The next stage of the project will extend the SQL analysis into Python for additional data exploration and visualization.
 
 Selected results will also be used to build an interactive dashboard highlighting key sales, customer, product, geographic, and retention metrics.
+
+Findings will be summarized after the Python and dashboard stages are complete.
